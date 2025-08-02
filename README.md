@@ -66,6 +66,13 @@ ChatGPT-style AI assistant with Supabase integration.
 
 ---
 
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/farhanamfk?theme=dark&font=Baloo+Bhai&ext=heatmap" width="60%" alt="LeetCode Stats"/>
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farhan629&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
