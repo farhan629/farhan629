@@ -38,14 +38,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### 🚗 [ZULA - Car Booking App](https://github.com/farhan629/zula-car-booking)
-Multi-role cab booking app for customers, drivers, and admins.  
-🔸 Tech: MERN Stack • Real-time ride tracking • Dynamic pricing
-
----
-
 ### 🧾 [Milk Delivery Tracker](https://github.com/farhan629/milk-delivery)
 Website to manage daily milk delivery and billing.  
 🔸 Tech: React + Node.js + MySQL • Calendar view • Admin dashboard
